@@ -1,0 +1,13 @@
+{
+    "name": "assignment1/city",
+    "authors": [
+        {
+            "name": "Mark Felchlin",
+            "email": "mdfelchlin@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/support": "^7.20"
+    }
+}
